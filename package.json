@@ -1,0 +1,29 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xbphamvn/nodejs_blog.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "blog",
+    "first",
+    "project"
+  ],
+  "author": "xbphamvn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xbphamvn/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/xbphamvn/nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
